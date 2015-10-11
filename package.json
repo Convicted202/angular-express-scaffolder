@@ -1,0 +1,7 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd ./client && npm install && cd ../server && npm install"
+  }
+}
