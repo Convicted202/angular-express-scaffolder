@@ -2,6 +2,8 @@
 
 This project is generated with yo angular-generator for front-end part and express scaffolder for back-end with purpose of creating a nice looking and comfy structure to develop apps
 
+To start run `npm start` to install all the dependencies
+
 Running `yo angular:route <myroute>` from client will create route, controller, view
 
 ## Build & development
